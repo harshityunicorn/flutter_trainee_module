@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_trainee_module/module1_oops_concepts/oops_concepts.dart';
+import 'package:flutter_trainee_module/module2_oops_concepts/oops_concepts.dart';
 
 void main() {
   Child c = Child("vinod", 5, "indore");
